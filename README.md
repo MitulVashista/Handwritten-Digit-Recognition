@@ -1,7 +1,5 @@
 # Digit Recognition WebApp, PyTorch, Flask
 
-**Demo Site : https://github.com/MitulVashista/Handwritten-Digit-Recognition**
-
 ![Digit Recognition](./demo.gif)
 
 
