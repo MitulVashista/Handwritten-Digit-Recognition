@@ -1,6 +1,6 @@
-# Digit Recognition WebApp, PyTorch, Flask
+# Handwritten Digit Recognition WebApp, PyTorch, Flask
 
-![Digit Recognition](./demo.gif)
+![Handwritten Digit Recognition](./demo.gif)
 
 
 ## Specific
