@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition WebApp, PyTorch, Flask
+# Handwritten Digit Recognition WebApp using PyTorch, Flask
 
 ![Handwritten Digit Recognition](./demo.gif)
 
